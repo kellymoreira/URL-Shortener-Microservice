@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./img/www.png" alt="URL" width="25%"/>
+<img src="./img/search-engine.png" alt="URL" width="25%"/>
 </p>
 
 # URL Shortener Microservice
